@@ -5,3 +5,25 @@ h1 {
 p {
     color:blueviolet;
 }
+body {
+    background-color: aliceblue;
+
+}
+
+#paragraph2 {
+    color: magenta;
+    margin-left: 10px;
+
+}
+
+.content {
+    background-color: lightgoldenrodyellow;
+    display: flex;
+    margin: 10px;
+}
+
+.btn-custom:hover {
+    background-color: purple;
+
+}
+
